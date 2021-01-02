@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.mail.MessagingException"/>
+<fullyQualifiedTypeName name="in.co.rays.model.CollegeModelInt"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="in.co.rays.model.CourseModelHibImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.model.FacultyModelInt"/>
+<fullyQualifiedTypeName name="in.co.rays.model.RoleModelInt"/>
+<fullyQualifiedTypeName name="in.co.rays.model.RoleModelHibImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.model.FacultyModelHibImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.FacultyDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.model.StudentModelHibImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.StudentDTO"/>
+<fullyQualifiedTypeName name="javax.mail.internet.ParseException"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="in.co.rays.controller.ORSView"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="in.co.rays.model.UserModelHibImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.model.StudentModelInt"/>
+<fullyQualifiedTypeName name="in.co.rays.model.UserModelInt"/>
+<fullyQualifiedTypeName name="in.co.rays.model.CourseModelInt"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.UserDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.exception.DuplicateRecordException"/>
+<fullyQualifiedTypeName name="in.co.rays.model.TimeTableModelInt"/>
+<fullyQualifiedTypeName name="in.co.rays.model.ModelFactory"/>
+<fullyQualifiedTypeName name="in.co.rays.exception.ApplicationException"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="in.co.rays.model.CollegeModelHibImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.CollegeDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.CourseDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.RoleDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.TimeTableDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.dto.MarksheetDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.model.MarksheetModelInt"/>
+</qualifiedTypeNameHistroy>

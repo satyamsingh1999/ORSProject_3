@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project_3/src/main/resources/in/co/rays/bundle/system.property&apos; to &apos;system.properties&apos;" description="Rename resource &apos;system.property&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/in/co/rays/bundle/system.property" name="system.properties" stamp="1583918729078" updateReferences="true"/>
+</session>
